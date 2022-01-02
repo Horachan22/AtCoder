@@ -3,7 +3,7 @@
 Project Name  : 増減管理
 File Name     : A.go
 Encoding      : UTF-8
-Creation Date : 2022/1/1
+Creation Date : 2022/1/2
 Copyright (c) 2022 Yuma Horaguchi All rights reserved.
 ===================================================================
 */
