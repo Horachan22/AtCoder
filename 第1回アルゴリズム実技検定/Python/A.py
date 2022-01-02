@@ -1,7 +1,7 @@
 '''
 ===================================================================
 Project Name  : 2倍チェック
-File Name     : A.cpp
+File Name     : A.py
 Encoding      : UTF-8
 Creation Date : 2022/1/1
 Copyright (c) 2022 Yuma Horaguchi All rights reserved.
