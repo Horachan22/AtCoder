@@ -10,8 +10,6 @@ Copyright (c) 2022 Yuma Horaguchi All rights reserved.
 
 #include <iostream>
 #include <vector>
-#include <cctype>
-#include <algorithm>
 
 using namespace std;
 
