@@ -11,7 +11,7 @@ Copyright (c) 2022 Yuma Horaguchi All rights reserved.
 def main()
 	input_data = gets()
 	if /^[+-]?[0-9]+$/ =~ input_data.to_s
-		puts(Integer(input_data) * 2)
+		puts(input_data.to_i() * 2)
 	else
 		puts('error')
 	end
